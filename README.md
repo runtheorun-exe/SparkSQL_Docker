@@ -1,1 +1,0 @@
-# SparkSQL_Docker
