@@ -1,7 +1,9 @@
 # Docker Container execution instructions
 
 ## Step 1: 
-Clone this repository and CD to the directory.
+If accessing from github, clone this repository and CD to the directory.
+Otherwise, you're probably already in the correct directory. Launch a command prompt from within the directory.
+
 ## Step 2: 
 run the following command:
 ```docker build -t containerName .```
