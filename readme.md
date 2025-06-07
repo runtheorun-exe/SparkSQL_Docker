@@ -10,9 +10,5 @@ Once the container has been built, use the following command to launch the conta
 ``` docker run -p 8888:8888 containerName ```
 
 ## Note:
-Jupyter server is either accessible via
-``` http://127.0.0.1:8888/lab ```
-using the password
-```123```
-or, via the URLs generated during container startup, which look something like this:
+Jupyter server is accessible via the URLs generated during container startup, which look something like this:
 ``` http://32ed18cfcea3:8888/lab?token=b835e17e1cdd04fa5761e820d0231ff9a702a0e239d35c49```
